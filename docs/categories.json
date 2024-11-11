@@ -1,0 +1,6 @@
+[
+  { "name": "Giriş", "slug": "introduction", "position": 1 },
+  { "name": "Komutlar", "slug": "commands", "position": 2 },
+  { "name": "Sponsor", "slug": "sponsors", "position": 3},
+  { "name": "Yasal", "slug": "legal", "position": 4 }
+]

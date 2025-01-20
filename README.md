@@ -10,5 +10,6 @@ her şeyi tek tek yazmaya üşendim şimdi ama dökümantasyon ve ana sayfası �
 
 
 # [Menfis Website](https://menfis.vercel.app/)
+vercelde sorun çıkmış arkadaşlar :c
 
 Website for the Menfis website written using Next.js and Tailwind CSS.
